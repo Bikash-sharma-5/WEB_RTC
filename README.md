@@ -17,6 +17,11 @@ This is a video chat application built using WebRTC and Socket.io that allows us
 - **Socket.io**: For real-time communication and signaling.
 - **React Player**: For displaying video streams.
 
+
+## Pictures
+ ![Screenshot 2025-03-05 190856](https://github.com/user-attachments/assets/3fa75d72-a992-4b3a-8e44-00f3dca1ee49)
+![Screenshot 2025-03-05 190453](https://github.com/user-attachments/assets/bcb97e44-7e11-4589-82e6-36222e113306)
+
 ## Setup
 
 ### 1. Clone the repository
@@ -24,3 +29,4 @@ This is a video chat application built using WebRTC and Socket.io that allows us
 ```bash
 git clone https://github.com/Bikash-sharma-5/WEB_RTC.git
 cd WEB_RTC
+
